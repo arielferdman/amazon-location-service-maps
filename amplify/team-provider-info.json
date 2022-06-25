@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "mapa6be55698": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d54x13hp8ic9j",
+          "type": "cicd"
+        }
       }
     }
   }
